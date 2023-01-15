@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat-ghadi&label=Profile%20views&color=0e75b6&style=flat" alt="bharat-ghadi" /> </p>
 
-
 <img align="right" alt='coding' width='30%' src = "https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+
 - 🔭 I’m currently working on **Django Web Apps**
 
 - 🌱 I’m currently learning **Python Data Science**
