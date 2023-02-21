@@ -1,5 +1,5 @@
 
-<img align='center' alt='Banner logo' width='100%' src = "https://github.com/bharat-ghadi/bharat-ghadi/blob/main/BHARAT%20GHADIGAONKAR%20(1).jpg">
+<img align='center' alt='Banner logo' width='100%' src = "https://github.com/bharat-ghadi/bharat-ghadi/blob/main/Beige%20Minimalist%20Profile%20LinkedIn%20Banner%20(1)_page-0001.jpg">
 <!-- <h1 align="center">Hi 👋, I'm Bharat Ghadigaonkar</h1> -->
 <h3 align="center">I am a Passionate python developer from India</h3>
 
